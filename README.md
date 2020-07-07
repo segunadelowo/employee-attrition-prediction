@@ -6,5 +6,10 @@ For any company, employee attrition is a big challenge. It is easier to retain e
 
 ### Data collection
 The data used in this analysis was gotten from https://github.com/amitkaps/full-stack-data-science/tree/master/employee-attrition
-The attributes of the datasets are listed below: 
+
+### Analysis Workflow
+- Define
+- Discover
+- Develop
+- Deploy
 
