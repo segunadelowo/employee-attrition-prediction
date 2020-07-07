@@ -8,6 +8,8 @@ For any company, employee attrition is a big challenge. It is easier to retain e
 The data used in this analysis was gotten from https://github.com/amitkaps/full-stack-data-science/tree/master/employee-attrition
 
 ### Analysis Workflow
+The listed steps below were used in executing this project.
+
 - Define
 - Discover
 - Develop
@@ -15,5 +17,4 @@ The data used in this analysis was gotten from https://github.com/amitkaps/full-
 
 ### Project file
 Click the link below to view the project
-
 [employee-attrition-prediction notebook](https://github.com/segunadelowo/employee-attrition-prediction/blob/master/develop/2018-11-19-SA-first-analysis.ipynb).
