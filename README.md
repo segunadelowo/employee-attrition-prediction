@@ -13,3 +13,7 @@ The data used in this analysis was gotten from https://github.com/amitkaps/full-
 - Develop
 - Deploy
 
+### Project file
+Click the link below to view the project
+
+[employee-attrition-prediction notebook](https://github.com/segunadelowo/employee-attrition-prediction/blob/master/develop/2018-11-19-SA-first-analysis.ipynb).
